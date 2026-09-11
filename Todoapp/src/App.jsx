@@ -6,7 +6,10 @@ function App() {
 
   return (
     <>
-    To do App
+    <div className="text-2xl font-bold">
+      To Do App
+    </div>
+    
     </>
   )
 }
