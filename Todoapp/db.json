@@ -1,0 +1,78 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    },
+    {
+      "id": "i6TyVJ9uA8g",
+      "title": "task"
+    },
+    {
+      "id": "pMjE6_FLEr4",
+      "title": "task"
+    },
+    {
+      "title": "task",
+      "id": "E5nFeeZpXPo"
+    },
+    {
+      "title": "red",
+      "id": "MS4kp_o2AMc"
+    },
+    {
+      "title": "white",
+      "id": "xm10WuaqyA4"
+    },
+    {
+      "title": "",
+      "id": "ur3hc0B8TYE"
+    },
+    {
+      "title": "",
+      "id": "YLLBT9EpmU4"
+    },
+    {
+      "title": "",
+      "id": "vL1ivGRDFo8"
+    },
+    {
+      "title": "",
+      "id": "J4eXdYMh9Vs"
+    },
+    {
+      "title": "",
+      "id": "7mHytjaOY1Y"
+    },
+    {
+      "title": "af",
+      "id": "H6zwdaodzZE"
+    },
+    {
+      "title": "sdf",
+      "id": "KtvVMR5mNJM"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "$schema": "./node_modules/json-server/schema.json"
+}
