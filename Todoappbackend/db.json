@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "title": "dfadfasdfdsfasdf",
+      "completed": false,
+      "id": "QECzIDQ8quA"
+    },
+    {
+      "title": "read",
+      "completed": false,
+      "id": "wixOvIN7t60"
+    },
+    {
+      "title": "write",
+      "completed": false,
+      "id": "7J0yYebL3-8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

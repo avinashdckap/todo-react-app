@@ -1,0 +1,49 @@
+.main{
+    background-color: #EEEEEE;
+    width:100vw;
+    height:100vh;
+}
+.todoapp{
+    margin:10px auto;
+}
+input{
+    border:1px solid black;
+    border-radius:3px;
+    
+}
+input::placeholder{
+    padding:5px;
+}
+button{
+    border:1px solid black;
+    border-radius:3px;
+}
+form > span{
+    color:red;
+    font-size: small;
+    display:block;
+    margin:4px;
+}
+
+li{
+    display:flex;
+    border:1px solid #D9D9D9;
+    margin:6px 0px 7px 0px;
+    padding:4px;
+    border-radius:3px;
+    box-shadow:2px 2px #D9D9D9;
+}
+.linethrough{
+    text-decoration: line-through;
+}
+.reacticons{
+    display:flex;
+    gap:2px;
+    margin-left:auto;
+}
+.rx{
+    color:red;
+}
+.tick{
+    color:green;
+}
